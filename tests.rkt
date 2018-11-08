@@ -9,7 +9,8 @@
 
 ;This structure allows a single function call
 ;to run every test in sequence, rather than
-;calling each function separately. 
+;calling each function separately.
+;a
 (define (runTests)
   (begin
     (display "Running tests...\n")
